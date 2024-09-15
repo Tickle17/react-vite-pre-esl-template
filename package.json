@@ -1,6 +1,6 @@
 {
   "name": "react-vite-eslint-prettier-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Custom React template with Vite, ESLint, Prettier, and TypeScript",
   "bin": {
     "react-vite-eslint-prettier-template": "./cli.js"
